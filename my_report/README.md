@@ -1,7 +1,7 @@
 # Lesson: Advanced Interaction Technologies & Applications
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
+### First and Last Name: Efstratios Koutoulakis
+### University Registration Number: dpsd19061
 ### GitHub Personal Profile: xxx
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
 
