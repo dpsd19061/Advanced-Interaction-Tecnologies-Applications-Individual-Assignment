@@ -66,7 +66,7 @@
 
 # Bonus 
 
-### 0. Kinect Instalation
+### 0. Kinect Installation
 
 ![ScreenShot](se4.1.jpg)
 ![ScreenShot](se4.2.jpg)
