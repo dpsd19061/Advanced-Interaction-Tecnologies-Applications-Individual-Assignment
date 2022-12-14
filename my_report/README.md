@@ -37,12 +37,50 @@
 
 # 2nd Deliverable
 
+### 1ο Μέρος Παραδοτέου
+
+--> LALALA
+
+![Alt Text]()
+
+### 2ο Μέρος Παραδοτέου
+
+--> LALALA
+
+![Alt Text]()
+
+### 3ο Μέρος Παραδοτέου
+
+--> LALALA
+
+![Alt Text]()
+
+### 4ο Μέρος Παραδοτέου
+
+--> LALALA
+
+![Alt Text]()
 
 # 3rd Deliverable 
 
 
 # Bonus 
 
+0. Kinect Instalation
+
+![Alt Text]()
+
+1. Nearest Point Tracking
+
+![Alt Text]()
+
+2. Background Removal
+
+![Alt Text]()
+
+3. Right-Hand Tracking
+
+![Alt Text]()
 
 # Conclusions
 
