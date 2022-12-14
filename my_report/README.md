@@ -66,21 +66,21 @@
 
 # Bonus 
 
-0. Kinect Instalation
+### 0. Kinect Instalation
 
 ![ScreenShot](se4.1.jpg)
 ![ScreenShot](se4.2.jpg)
 ![ScreenShot](se4.3.jpg)
 
-1. Nearest Point Tracking
+### 1. Nearest Point Tracking
 
 ![Alt Text](se4.4.gif)
 
-2. Background Removal
+### 2. Background Removal
 
 ![Alt Text](se4.5.gif)
 
-3. Right-Hand Tracking
+### 3. Right-Hand Tracking
 
 ![Alt Text](se4.6.gif)
 
