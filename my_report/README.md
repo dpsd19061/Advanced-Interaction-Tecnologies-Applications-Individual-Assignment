@@ -68,19 +68,27 @@
 
 ### 0. Kinect Installation
 
+--> Coming Soon
+
 ![ScreenShot](se4.1.jpg)
 ![ScreenShot](se4.2.jpg)
 ![ScreenShot](se4.3.jpg)
 
 ### 1. Nearest Point Tracking
 
+--> Coming Soon
+
 ![Alt Text](se4.4.gif)
 
 ### 2. Background Removal
 
+--> Coming Soon
+
 ![Alt Text](se4.5.gif)
 
 ### 3. Right-Hand Tracking
+
+--> Coming Soon
 
 ![Alt Text](se4.6.gif)
 
