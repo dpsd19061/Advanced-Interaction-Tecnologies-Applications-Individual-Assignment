@@ -41,25 +41,25 @@
 
 --> LALALA
 
-![Alt Text]()
+![Alt Text](s2.1.gif)
 
 ### 2ο Μέρος Παραδοτέου
 
 --> LALALA
 
-![Alt Text]()
+![Alt Text](s2.2.gif)
 
 ### 3ο Μέρος Παραδοτέου
 
 --> LALALA
 
-![Alt Text]()
+![Alt Text](s2.3.gif)
 
 ### 4ο Μέρος Παραδοτέου
 
 --> LALALA
 
-![Alt Text]()
+![Alt Text](s2.4.gif)
 
 # 3rd Deliverable 
 
@@ -68,19 +68,21 @@
 
 0. Kinect Instalation
 
-![Alt Text]()
+![ScreenShot](se4.1.jpg)
+![ScreenShot](se4.2.jpg)
+![ScreenShot](se4.3.jpg)
 
 1. Nearest Point Tracking
 
-![Alt Text]()
+![Alt Text](se4.4.gif)
 
 2. Background Removal
 
-![Alt Text]()
+![Alt Text](se4.5.gif)
 
 3. Right-Hand Tracking
 
-![Alt Text]()
+![Alt Text](se4.6.gif)
 
 # Conclusions
 
