@@ -71,6 +71,8 @@
 
 # Bonus 
 
+## Σε συνεργασία με: [Evedes01](https://github.com/Evedes01)
+
 ### 0. Kinect Installation
 
 --> Coming Soon
