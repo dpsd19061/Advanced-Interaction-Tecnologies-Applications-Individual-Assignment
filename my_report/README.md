@@ -103,14 +103,4 @@
 
 
 # Sources
-
-
-<iframe
-    width="640"
-    height="480"
-    src="[https://www.youtube.com/embed/UmX4kyB2wfg](https://www.youtube.com/watch?v=gu2D6GrT1lQ&ab_channel=LubenTV)"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![]](https://www.youtube.com/watch?v=gu2D6GrT1lQ&ab_channel=LubenTV "Everything Is AWESOME")
