@@ -103,4 +103,5 @@
 
 
 # Sources
-[![]](https://www.youtube.com/watch?v=gu2D6GrT1lQ&ab_channel=LubenTV "Everything Is AWESOME")
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://youtu.be/gu2D6GrT1lQ))
+
