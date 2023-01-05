@@ -99,9 +99,11 @@
 
 ![Alt Text](se4.6.gif)
 
+# Bonus 2
+
+## Σε συνεργασία με: [Evedes01](https://github.com/Evedes01)
+
 # Conclusions
 
 
 # Sources
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://youtu.be/gu2D6GrT1lQ))
-
