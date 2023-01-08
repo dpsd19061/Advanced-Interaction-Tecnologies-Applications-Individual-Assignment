@@ -71,7 +71,7 @@
 
 # Bonus 
 
-## Σε συνεργασία με: [Evedes01](https://github.com/Evedes01)
+## Σε συνεργασία με: [Evedes01](https://github.com/Evedes01) (dpsd19030 Evangelia Despotidou)
 
 ### 0. Kinect Installation
 
@@ -105,7 +105,7 @@
 
 # Bonus 2
 
-## Σε συνεργασία με: [Evedes01](https://github.com/Evedes01)
+## Σε συνεργασία με: [Evedes01](https://github.com/Evedes01) (dpsd19030 Evangelia Despotidou)
 
 # Conclusions
 
