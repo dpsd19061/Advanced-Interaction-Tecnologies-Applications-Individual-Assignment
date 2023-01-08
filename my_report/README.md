@@ -75,7 +75,7 @@
 
 ### 0. Kinect Installation
 
---> Coming Soon
+--> Για την εγκατάσταση της κάμερας, ακολουθήσαμε πιστά τις οδηγίες από [εδώ](https://fivedots.coe.psu.ac.th/~ad/kinect/installation.html) και συνοδευτικά από τη [σελίδα](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4) στο GitHub. Επιπλέον δοκιμάσαμε κάποια έτοιμα παραδείγματα για να σιγουρευτούμε ότι εγκαταστήθηκε σωστά η κάμερα.
 
 ![ScreenShot](se4.1.jpg)
 ![ScreenShot](se4.2.jpg)
