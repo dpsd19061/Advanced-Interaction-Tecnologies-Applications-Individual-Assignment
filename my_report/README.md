@@ -68,6 +68,13 @@
 
 # 3rd Deliverable 
 
+### Image Processing Application
+
+-->
+
+### Ερώτημα Bonus – Κατασκευή Απλής Επιφάνειας Πολυαφής
+
+-->
 
 # Bonus 
 
