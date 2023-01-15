@@ -143,6 +143,4 @@ https://www.youtube.com/watch?v=qKXlI4zAMAY&ab_channel=SergioL%C3%B3pezRey
 
 https://fivedots.coe.psu.ac.th/~ad/kinect/installation.html
 
-https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4
-
 https://processing.org/reference/perspective_.html
