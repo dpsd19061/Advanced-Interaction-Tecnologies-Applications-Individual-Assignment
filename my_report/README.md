@@ -134,3 +134,15 @@
 --> Σε γενικές γραμμές μέσα από τη θεωρία του μαθήματος αλλά και από τα εργαστήρια ήρθαμε σε επαφή με έναν μεγάλο αριθμό νέων τεχνολογιών και όλες τις πιθανές εφαρμογές τους. Κάποιες από αυτές, τις εφαρμόσαμε σε πράξη χρησιμοποιώντας ειδικό εξοπλισμό (κάμερα Kinect) και είχαμε τη δυνατότητα να μάθουμε πολλά πράγματα μέσα από αυτή την εμπειρεία. Ωστόσο κατα την υλοποίηση των εργασιών αναπτύχθηκε έντονα η δεξιότητα να αναγνωρίζουμε το τι εκτελούν δίαφορα κομμάτια κώδικα και να τα συνθέτουμε όλα μαζί ετσι ώστε να πετύχουμε τον δικό μας στόχο.
 
 # Sources
+
+https://discourse.processing.org/t/processing-cant-find-the-camera-video-libraries-dont-work/25128
+
+https://processing.org/examples/embeddedlinks.html
+
+https://www.youtube.com/watch?v=qKXlI4zAMAY&ab_channel=SergioL%C3%B3pezRey
+
+https://fivedots.coe.psu.ac.th/~ad/kinect/installation.html
+
+https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4
+
+https://processing.org/reference/perspective_.html
